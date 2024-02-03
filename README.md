@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daksh Chhabra</h1>
+<!--<h1 align="center">Hi 👋, I'm Daksh Chhabra</h1>
 <h3 align="center">A passionate frontend developer from India .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daksh7112003&label=Profile%20views&color=0e75b6&style=flat" alt="daksh7112003" /> </p>
@@ -19,4 +19,53 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daksh7112003&show_icons=true&locale=en&layout=compact" alt="Daksh7112003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daksh7112003&" alt="Daksh7112003" /></p>
+
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+### Hey! I'm Daksh Chhabra 🤝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=74F70B&width=435&lines=%22We+are+what+we+Repeatedly+do.+;Excellence%2C+then...;is+not+an+Act+but+a+Habit.%22+-+Aristotle)](https://git.io/typing-svg)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-chhabra-513172233/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daksh.chhabra_/)
+
+<div>
+  <a href="https://github.com/Daksh7112003">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daksh7112003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh7112003&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+    
+🔭 I'm currently working with Data Science and Backend;
+
+🌱 I'm studying: SQL, Python, Power BI and Java;
+
+:octocat: I'm looking to collaborate and learn on projects involving Data Science and Backend;
+
+📫 Contact: 7daksh2003@gmail.com ;
+
+😄 Pronouns: he / him;
+
+<!--⚡ Creator of Dev Reset (@devreset) on Instagram; -->
+
+## Technologies I use in my day 
+
+<div style="display: inline_block"><br>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+</div>
 
