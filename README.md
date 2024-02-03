@@ -37,6 +37,12 @@
 ### Hey! I'm Daksh Chhabra 🤝
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=74F70B&width=435&lines=%22We+are+what+we+Repeatedly+do.+;Excellence%2C+then...;is+not+an+Act+but+a+Habit.%22+-+Aristotle)](https://git.io/typing-svg)
 
+## 🏆 Github Profile Trophy 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daksh7112003&column=6&theme=radical&margin-w=15&margin-h=15" alt="mahdi-Eth" /></a></p>
+
+<br/>
+<br/>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daksh-chhabra-513172233/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daksh.chhabra_/)
 
@@ -63,6 +69,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <!--<img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">  -->
+ <!-- <img align="center" alt="Java" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fjava_5968282&psig=AOvVaw1gzqTy4D2zaaUoe4XC6GL-&ust=1707046877379000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLiPmauLj4QDFQAAAAAdAAAAABAE" width="100" height="auto"> -->
+
 
 
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
