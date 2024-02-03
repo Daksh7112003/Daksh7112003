@@ -59,7 +59,7 @@
 
 :octocat: I'm looking to collaborate and learn on projects involving Web-Development and AI;
 
-📫 Contact: 7daksh2003@gmail.com ;
+📫 Contact: 7daksh2003@gmail.com;
 
 😄 Pronouns: he / him;
 
