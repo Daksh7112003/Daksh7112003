@@ -7,6 +7,7 @@
 
 - 🌱 I’m currently learning **React and Java**
 
+
 - 📫 How to reach me **7daksh2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -63,7 +64,8 @@
 
 😄 Pronouns: he / him;
 
-<!--⚡ Creator of Dev Reset (@devreset) on Instagram; -->
+
+
 
 ## Technologies I use in my day 
 
