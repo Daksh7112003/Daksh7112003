@@ -35,7 +35,7 @@
 
 
 ### Hey! I'm Daksh Chhabra 🤝
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=74F70B&width=435&lines=%22We+are+what+we+Repeatedly+do.+;Excellence%2C+then...;is+not+an+Act+but+a+Habit.%22+-+Aristotle)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&pause=1000&color=1E90FF&width=435&lines=%22We+are+what+we+Repeatedly+do.+;Excellence%2C+then...;is+not+an+Act+but+a+Habit.%22+-+Aristotle)](https://git.io/typing-svg)
 
 ## 🏆 Github Profile Trophy 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Daksh7112003&column=6&theme=radical&margin-w=15&margin-h=15" alt="mahdi-Eth" /></a></p>
