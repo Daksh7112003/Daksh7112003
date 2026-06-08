@@ -1,6 +1,6 @@
 # Hi, I'm Daksh Chhabra 👋
 
-### Software Engineer at Optiemus Unmanned Systems
+### UAV Software Engineer 
 Specializing in **Ground Control Systems (GCS)**, **autonomous drone software**, and **UAV systems integration**.
 
 ---
